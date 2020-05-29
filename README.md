@@ -7,9 +7,9 @@ on the old computer.
 Summary:  
 1) use com redirection to send the xmodem16.uu and uudecode.bas programs to the old pc.  
 2) Use the uudecode.bas program on the old pc to convert xmodem16.uu back to xmodem16.exe
-3) Use xmodem16.exe on the old computer to communicate with xmodem32.exe on the new computer
+3) Use xmodem16.exe on the old computer to communicate with xmodem32.exe on the new computer.
 This program as tested with Visual Studio 2017 on Windows 10 64 bit and should run on most
-current windows machines.  This code will also compile and run under Turboc++ on PC DOS 3.3 
+current windows machines.  This code will also compile and run under Turboc++ on PC DOS 3.3.
 The intent of this code is to provide a simple 2 way (very old)PC to (new)PC connection over 
 the serial port
 
